@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<a href="/ru_badziy_spring_mvc/askDetails">Please write your details</a>
+<a href="/askDetails">Please write your details</a>
 
 </body>
 
